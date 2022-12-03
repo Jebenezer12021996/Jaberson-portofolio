@@ -335,6 +335,10 @@ footer .container-fluid {
   #About h1 {
     margin-top: 50px;
   }
+
+  #About .row div:nth-child(2) {
+    padding-right: 20px;
+  }
 }
 
 @media screen and (max-width: 350px) {
